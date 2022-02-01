@@ -12,18 +12,18 @@
 - Graduated from DDSHS(Daejeon Dongsin Science Highschool) (Feb 2021)
 - Undergarduate Student at SNU [NAOE](https://naoe.snu.ac.kr/) 21
 
-### Interests
+### ❗ Interests
 
 - ⚙️ Engineering
 - 🖥️ Programming - especially Algorithms, Low-level Languages
 - 🎮 Games! - Several PC games and Mobile games
 - 🎹 Music! - Likes to play the piano and compose/arrange songs
 
-### Contact
+### ☎️ Contact
 
 - 📨 [Email](mailto:celenort@snu.ac.kr) me!
 - 💬 Visit my [Blog](https://celenort.github.io)!
 
-### Github Statistics
+### 🗒️ Github Statistics
 
 ![](/github-metrics.svg)
