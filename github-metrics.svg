@@ -114,9 +114,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.7508856665638" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="447.7508856665638" y="0" width="11.554198538251221" height="8" fill="#b2b7f8"/>
-                    <rect mask="url(#languages-bar)" x="459.30508420481505" y="0" width="0.6949157951849527" height="8" fill="#E3F171"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.70537164206036" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="446.70537164206036" y="0" width="12.601335215513124" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="459.3067068575735" y="0" width="0.693293142426526" height="8" fill="#E3F171"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -129,7 +129,7 @@
                             </div>
                             <small>
                                 <div>182 kB</div>
-                                <div>97.34%</div>
+                                <div>97.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -154,8 +154,8 @@
                                 Verilog
                             </div>
                             <small>
-                                <div>4.72 kB</div>
-                                <div>2.51%</div>
+                                <div>5.16 kB</div>
+                                <div>2.74%</div>
                             </small>
                         </div>
                     </section>
