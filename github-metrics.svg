@@ -114,10 +114,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="411.4803607655269" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="411.4803607655269" y="0" width="23.61107716373769" height="8" fill="#b2b7f8"/>
-                    <rect mask="url(#languages-bar)" x="435.09143792926454" y="0" width="18.504338474323568" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.59577640358816" y="0" width="6.4042235964118985" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.7637059321786" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="409.7637059321786" y="0" width="25.59063780899806" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="435.3543437411767" y="0" width="18.268150441530118" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.6224941827068" y="0" width="6.377505817293182" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -130,7 +130,7 @@
                             </div>
                             <small>
                                 <div>182 kB</div>
-                                <div>89.45%</div>
+                                <div>89.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -141,8 +141,8 @@
                                 C
                             </div>
                             <small>
-                                <div>8.23 kB</div>
-                                <div>4.02%</div>
+                                <div>8.16 kB</div>
+                                <div>3.97%</div>
                             </small>
                         </div>
                     </section>
@@ -155,8 +155,8 @@
                                 Verilog
                             </div>
                             <small>
-                                <div>10.5 kB</div>
-                                <div>5.13%</div>
+                                <div>11.4 kB</div>
+                                <div>5.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
