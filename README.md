@@ -1,5 +1,16 @@
+## ☎️ Contact
 
- 
+- 📨 [Email](mailto:celenort@snu.ac.kr)
+- 💬 [Blog](https://celenort.github.io)
+- 🎮 [Discord](https://discord.gg/f4MZxu3p)
+- 📺 [Youtube](https://www.youtube.com/@celeskey)
+
+### 🗒️ Github Statistics
+
+![](/github-metrics.svg)
+
+<details><summary>Introduction(previous)</summary>
+
 ## ☕ Life with Ease!
  
 ### 📰 Bio
@@ -27,11 +38,4 @@
 - 🎮 Games! - Several PC games and Mobile games
 - 🎹 Music! - Music is life!
 
-### ☎️ Contact
-
-- 📨 [Email](mailto:celenort@snu.ac.kr) me!
-- 💬 Visit my [Blog](https://celenort.github.io)!
-
-### 🗒️ Github Statistics
-
-![](/github-metrics.svg)
+</details>
