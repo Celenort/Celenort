@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            607 Commits
+                            608 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -114,10 +114,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.0059044291742" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="361.0059044291742" y="0" width="54.737873310921444" height="8" fill="#4d41b1"/>
-                    <rect mask="url(#languages-bar)" x="415.74377774009565" y="0" width="27.147250057644673" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="442.8910277977403" y="0" width="17.10897220225967" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="360.9978396964899" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="360.9978396964899" y="0" width="54.73665048794114" height="8" fill="#4d41b1"/>
+                    <rect mask="url(#languages-bar)" x="415.734490184431" y="0" width="27.156919821150304" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="442.89141000558135" y="0" width="17.108589994418686" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -141,7 +141,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>657 kB</div>
+                                <div>658 kB</div>
                                 <div>5.9%</div>
                             </small>
                         </div>
